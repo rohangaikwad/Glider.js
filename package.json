@@ -1,0 +1,21 @@
+{
+    "name": "WebGLider.js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "css": "node-sass demo/css/styles.scss demo/css/styles.css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rohangaikwad/WebGLider.js.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rohangaikwad/WebGLider.js/issues"
+    },
+    "homepage": "https://github.com/rohangaikwad/WebGLider.js#readme"
+}
